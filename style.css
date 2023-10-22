@@ -8,7 +8,7 @@ body{
 .all{
     display: flex;
     flex-direction: row;
-    /* width: 60%; */
+    width: 60%;
     margin-top: 10%;
 
 }
